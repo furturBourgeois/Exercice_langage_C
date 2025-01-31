@@ -9,6 +9,6 @@ ce code est juste un  TP test
 */
 int main()
 {
-    printf(" Hello word\n");
+    printf("Hello world\n");
     return 0;
 }
